@@ -1,0 +1,16 @@
+C:\Users\david.tomas\C5\TA29\TA29-Unittest\PruebasUnitariasGeometria\PruebasUnitariasGeometria\bin\Debug\net7.0-windows\PruebasUnitariasGeometria.exe
+C:\Users\david.tomas\C5\TA29\TA29-Unittest\PruebasUnitariasGeometria\PruebasUnitariasGeometria\bin\Debug\net7.0-windows\PruebasUnitariasGeometria.deps.json
+C:\Users\david.tomas\C5\TA29\TA29-Unittest\PruebasUnitariasGeometria\PruebasUnitariasGeometria\bin\Debug\net7.0-windows\PruebasUnitariasGeometria.runtimeconfig.json
+C:\Users\david.tomas\C5\TA29\TA29-Unittest\PruebasUnitariasGeometria\PruebasUnitariasGeometria\bin\Debug\net7.0-windows\PruebasUnitariasGeometria.dll
+C:\Users\david.tomas\C5\TA29\TA29-Unittest\PruebasUnitariasGeometria\PruebasUnitariasGeometria\bin\Debug\net7.0-windows\PruebasUnitariasGeometria.pdb
+C:\Users\david.tomas\C5\TA29\TA29-Unittest\PruebasUnitariasGeometria\PruebasUnitariasGeometria\obj\Debug\net7.0-windows\PruebasUnitariasGeometria.Form1.resources
+C:\Users\david.tomas\C5\TA29\TA29-Unittest\PruebasUnitariasGeometria\PruebasUnitariasGeometria\obj\Debug\net7.0-windows\PruebasUnitariasGeometria.csproj.GenerateResource.cache
+C:\Users\david.tomas\C5\TA29\TA29-Unittest\PruebasUnitariasGeometria\PruebasUnitariasGeometria\obj\Debug\net7.0-windows\PruebasUnitariasGeometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.tomas\C5\TA29\TA29-Unittest\PruebasUnitariasGeometria\PruebasUnitariasGeometria\obj\Debug\net7.0-windows\PruebasUnitariasGeometria.AssemblyInfoInputs.cache
+C:\Users\david.tomas\C5\TA29\TA29-Unittest\PruebasUnitariasGeometria\PruebasUnitariasGeometria\obj\Debug\net7.0-windows\PruebasUnitariasGeometria.AssemblyInfo.cs
+C:\Users\david.tomas\C5\TA29\TA29-Unittest\PruebasUnitariasGeometria\PruebasUnitariasGeometria\obj\Debug\net7.0-windows\PruebasUnitariasGeometria.csproj.CoreCompileInputs.cache
+C:\Users\david.tomas\C5\TA29\TA29-Unittest\PruebasUnitariasGeometria\PruebasUnitariasGeometria\obj\Debug\net7.0-windows\PruebasUnitariasGeometria.dll
+C:\Users\david.tomas\C5\TA29\TA29-Unittest\PruebasUnitariasGeometria\PruebasUnitariasGeometria\obj\Debug\net7.0-windows\refint\PruebasUnitariasGeometria.dll
+C:\Users\david.tomas\C5\TA29\TA29-Unittest\PruebasUnitariasGeometria\PruebasUnitariasGeometria\obj\Debug\net7.0-windows\PruebasUnitariasGeometria.pdb
+C:\Users\david.tomas\C5\TA29\TA29-Unittest\PruebasUnitariasGeometria\PruebasUnitariasGeometria\obj\Debug\net7.0-windows\PruebasUnitariasGeometria.genruntimeconfig.cache
+C:\Users\david.tomas\C5\TA29\TA29-Unittest\PruebasUnitariasGeometria\PruebasUnitariasGeometria\obj\Debug\net7.0-windows\ref\PruebasUnitariasGeometria.dll

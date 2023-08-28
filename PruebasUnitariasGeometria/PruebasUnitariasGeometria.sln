@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebasUnitariasGeometria", "PruebasUnitariasGeometria\PruebasUnitariasGeometria.csproj", "{3836C54B-82F1-40D2-B2E9-328D18F96A5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebasUnitariasGeometriaTests", "PruebasUnitariasGeometriaTests\PruebasUnitariasGeometriaTests.csproj", "{0529F129-1A06-4D73-945E-F0D5441B8305}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3836C54B-82F1-40D2-B2E9-328D18F96A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3836C54B-82F1-40D2-B2E9-328D18F96A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3836C54B-82F1-40D2-B2E9-328D18F96A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3836C54B-82F1-40D2-B2E9-328D18F96A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0529F129-1A06-4D73-945E-F0D5441B8305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0529F129-1A06-4D73-945E-F0D5441B8305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0529F129-1A06-4D73-945E-F0D5441B8305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0529F129-1A06-4D73-945E-F0D5441B8305}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB097C6E-80E9-4B77-A0AF-92781866412D}
+	EndGlobalSection
+EndGlobal
